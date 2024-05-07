@@ -1,0 +1,16 @@
+Position	Residue	PTMscores	Cutoff=0.5
+>sp|G3V735|AMOL2_RAT Angiomotin-like protein 2 OS=Rattus norvegicus OX=10116 GN=Amotl2 PE=3 SV=1
+24	N	N-linked_glycosylation:0.917	N-linked_glycosylation:0.917
+89	N	N-linked_glycosylation:0.035	None
+170	N	N-linked_glycosylation:0.034	None
+226	N	N-linked_glycosylation:0.034	None
+316	N	N-linked_glycosylation:0.031	None
+323	N	N-linked_glycosylation:0.032	None
+345	N	N-linked_glycosylation:0.034	None
+373	N	N-linked_glycosylation:0.036	None
+386	N	N-linked_glycosylation:0.033	None
+397	N	N-linked_glycosylation:0.034	None
+459	N	N-linked_glycosylation:0.032	None
+608	N	N-linked_glycosylation:0.038	None
+615	N	N-linked_glycosylation:0.032	None
+746	N	N-linked_glycosylation:0.902	N-linked_glycosylation:0.902
